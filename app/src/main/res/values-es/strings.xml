@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gastos del coche</string>
+    <string name="translate_adicionar_despesa">Agregar gasto</string>
+    <string name="translate_titulo">Título</string>
+    <string name="translate_descricao">Descripción</string>
+    <string name="translate_preco_total">Precio o valor de la cuota $</string>
+    <string name="translate_adicionar">GUARDAR</string>
+    <string name="translate_atualizar">ACTUALIZAR</string>
+    <string name="translate_deletar">BORRAR</string>
+    <string name="translate_total_deste_mes">TOTAL PARA ESTE MES $: 0,0</string>
+    <string name="translate_total_deste_mes_2">TOTAL PARA ESTE MES $:</string>
+    <string name="translate_total_ate_aqui">TOTAL HASTA AHORA $: 0,00</string>
+    <string name="translate_total_ate_aqui_2">TOTAL HASTA AHORA $:</string>
+    <string name="translate_gasto_por_ano">Gastos anuales</string>
+    <string name="translate_moeda"> $: </string>
+    <string name="translate_moeda2"> $ </string>
+    <string name="translate_nao">NO</string>
+    <string name="translate_sim">SÍ</string>
+    <string name="translate_esta_certo_que_voce_quer_deletar">¿Estás seguro de que deseas eliminar?</string>
+    <string name="translate_falhou"> ¡Error! </string>
+    <string name="translate_adicionado_com_sucesso"> Agregado exitosamente </string>
+    <string name="translate_preencha_titulo_ou_descricao"> Se debe completar al menos el título o descripción.  </string>
+    <string name="translate_preencha_titulo"> Se debe completar el título. </string>
+    <string name="translate_preco_nao_pode_ser_vazio_ou_zero"> El precio no puede estar vacío o cero. </string>
+    <string name="translate_falha_ao_atualizar"> Actualización fallida </string>
+    <string name="translate_atualizado_com_sucesso"> Actualizado exitosamente </string>
+    <string name="translate_falha_ao_deletar"> Falló la eliminación </string>
+    <string name="translate_deletado_com_sucesso"> Eliminado exitosamente </string>
+    <string name="translate_ponto_ou_virgula">.</string>
+    <!-- Outras strings do seu aplicativo -->
+
+    <string name="translate_numero_de_parcela_nao_pode_ser_zero"> El número de cuota no puede ser cero ni estar vacío. </string>
+    <string name="translate_o_numero_de_parcela_nao_pode_ser_maior_que_mil">   El número de cuotas no puede ser superior a mil.  </string>
+
+
+    <string name="translate_repetir"> Repetir </string>
+    <string name="translate_nao_repetir"> No repitas </string>
+
+    <string name="translate_numero_de_parcelas"> Número de plazos </string>
+
+    <string name="translate_esta_parcela_repete"> Este gasto se repite en otras fechas. ¿Qué cuotas desea excluir? </string>
+    <string name="translate_apenas_esta"> SÓLO ESTE </string>
+    <string name="translate_todas"> TODO </string>
+    <string name="translate_esta_e_proximas"> ESTO Y EL SIGUIENTE </string>
+
+
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Car Expenses</string>
+    <string name="translate_adicionar_despesa">Add Expense</string>
+    <string name="translate_titulo">Title</string>
+    <string name="translate_descricao">Description</string>
+    <string name="translate_preco_total">Price or value of the installment $</string>
+    <string name="translate_adicionar">SAVE</string>
+    <string name="translate_atualizar">UPDATE</string>
+    <string name="translate_deletar">DELETE</string>
+    <string name="translate_total_deste_mes">TOTAL FOR THIS MONTH $: 0.00</string>
+    <string name="translate_total_deste_mes_2">TOTAL FOR THIS MONTH $: </string>
+    <string name="translate_total_ate_aqui">TOTAL SO FAR $: 0.00</string>
+    <string name="translate_total_ate_aqui_2">TOTAL SO FAR $: </string>
+    <string name="translate_gasto_por_ano">Annual Expenses</string>
+    <string name="translate_moeda"> $: </string>
+    <string name="translate_moeda2"> $ </string>
+    <string name="translate_nao">NOT</string>
+    <string name="translate_sim">YES</string>
+    <string name="translate_esta_certo_que_voce_quer_deletar">Are you sure you want to delete?</string>
+    <string name="translate_falhou"> Failed! </string>
+    <string name="translate_adicionado_com_sucesso"> Added successfully! </string>
+    <string name="translate_preencha_titulo_ou_descricao"> At least the title or description must be completed.  </string>
+    <string name="translate_preencha_titulo"> The title must be filled in. </string>
+    <string name="translate_preco_nao_pode_ser_vazio_ou_zero"> The price cannot be empty or zero. </string>
+    <string name="translate_falha_ao_atualizar"> Update failed. </string>
+    <string name="translate_atualizado_com_sucesso"> Updated successfully! </string>
+    <string name="translate_falha_ao_deletar"> Deletion failed.</string>
+    <string name="translate_deletado_com_sucesso"> Deleted successfully! </string>
+    <string name="translate_ponto_ou_virgula">.</string>
+    <!-- Outras strings do seu aplicativo -->
+
+    <string name="translate_numero_de_parcela_nao_pode_ser_zero"> The installment number cannot be zero or empty.  </string>
+    <string name="translate_o_numero_de_parcela_nao_pode_ser_maior_que_mil">  The installment number cannot be greater than one thousand.  </string>
+
+
+    <string name="translate_repetir"> Repeat </string>
+    <string name="translate_nao_repetir"> Do not repeat </string>
+
+    <string name="translate_numero_de_parcelas"> Number of installments </string>
+
+    <string name="translate_esta_parcela_repete"> This expense is repeated on other dates. Which installments do you want to exclude? </string>
+    <string name="translate_apenas_esta"> JUST THIS ONE </string>
+    <string name="translate_todas"> ALL </string>
+    <string name="translate_esta_e_proximas"> THIS AND NEXT </string>
+
+
+
+
+</resources>

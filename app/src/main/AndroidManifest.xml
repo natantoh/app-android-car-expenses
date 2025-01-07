@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <!-- Required only if your app targets Android 13 or higher. -->
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+    <!-- Solicitar permissão para acessar a Internet -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_carro"
+        android:roundIcon="@mipmap/ic_carro_round"
+        android:label="@string/app_name"
+        android:configChanges="locale"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Meu_Bloco_De_Notas"
+        tools:targetApi="31">
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="${admobAppId}" />
+
+        <activity
+            android:name=".UpdateActivity"
+            android:parentActivityName=".AnotacoesSalvas"
+            android:exported="false"
+
+            />
+        <activity
+            android:name=".AddActivity"
+            android:exported="false"
+            android:label="@string/translate_adicionar_despesa"
+            android:parentActivityName=".AnotacoesSalvas"
+
+            />
+        <activity
+            android:name=".GastosPorAno"
+            android:exported="false"
+            android:label="@string/translate_gasto_por_ano"
+            android:parentActivityName=".AnotacoesSalvas"
+            />
+
+        <activity
+            android:name=".AnotacoesSalvas"
+            android:exported="true"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

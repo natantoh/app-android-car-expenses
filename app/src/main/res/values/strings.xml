@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gastos Com o Carro</string>
+    <string name="translate_adicionar_despesa">Adicionar Despesa</string>
+    <string name="translate_titulo">Título</string>
+    <string name="translate_descricao">Descrição</string>
+    <string name="translate_preco_total">Preço ou valor da parcela R$</string>
+    <string name="translate_adicionar">ADICIONAR</string>
+    <string name="translate_atualizar">ATUALIZAR</string>
+    <string name="translate_deletar">DELETAR</string>
+    <string name="translate_total_deste_mes">TOTAL DESTE MÊS R$: 0,00</string>
+    <string name="translate_total_deste_mes_2">TOTAL DESTE MÊS R$: </string>
+    <string name="translate_total_ate_aqui">TOTAL ATÉ AQUI R$: 0,00</string>
+    <string name="translate_total_ate_aqui_2">TOTAL ATÉ AQUI R$: </string>
+    <string name="translate_gasto_por_ano">Gastos por Ano</string>
+    <string name="translate_moeda"> R$: </string>
+    <string name="translate_moeda2"> R$ </string>
+    <string name="translate_nao">NÃO</string>
+    <string name="translate_sim">SIM</string>
+    <string name="translate_esta_certo_que_voce_quer_deletar"> Tem certeza que você quer deletar ? </string>
+    <string name="translate_falhou"> Falhou! </string>
+    <string name="translate_adicionado_com_sucesso"> Adicionado com sucesso! </string>
+    <string name="translate_preencha_titulo_ou_descricao"> Pelo menos o título ou a descrição devem ser preenchidos. </string>
+
+    <string name="translate_preencha_titulo"> O título deve ser preenchido. </string>
+
+    <string name="translate_preco_nao_pode_ser_vazio_ou_zero"> O preço não pode ser vazio ou zero. </string>
+
+    <string name="translate_falha_ao_atualizar"> Falha ao atualizar </string>
+    <string name="translate_atualizado_com_sucesso"> Atualizado com sucesso! </string>
+    <string name="translate_falha_ao_deletar"> Falha ao deletar. </string>
+    <string name="translate_deletado_com_sucesso"> Deletado com sucesso! </string>
+    <string name="translate_ponto_ou_virgula">,</string>
+    <!-- Outras strings do seu aplicativo -->
+
+    <string name="translate_numero_de_parcela_nao_pode_ser_zero"> O número de parcela não pode ser zero ou vazio. </string>
+    <string name="translate_o_numero_de_parcela_nao_pode_ser_maior_que_mil">  O número de parcela não pode ser maior que mil. </string>
+
+    <string name="translate_repetir"> Repetir </string>
+    <string name="translate_nao_repetir"> Não Repetir </string>
+    <string name="translate_numero_de_parcelas"> Número de Parcelas </string>
+
+
+    <string name="translate_esta_parcela_repete"> Essa despesa se repete em outras datas, Deseja excluir quais parcelas ? </string>
+
+    <string name="translate_apenas_esta"> APENAS ESTA </string>
+    <string name="translate_todas"> TODAS </string>
+    <string name="translate_esta_e_proximas"> ESTA E PRÓXIMAS </string>
+
+</resources>
